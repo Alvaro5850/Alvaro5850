@@ -12,8 +12,8 @@ Proyecto full-stack de comparación de precios de supermercados.
 - **Frontend**: app web y móvil (disponible para escritorio y dispositivos móviles)
 
   Clonar repos:  
-gh repo clone HevCuesta/Compmerca
-gh repo clone HevCuesta/Compmerca-front
+-gh repo clone HevCuesta/Compmerca
+-gh repo clone HevCuesta/Compmerca-front
 
 🔹 **ibreath_app**  
 Aplicación en Flutter/Dart diseñada para niños con TEA, con panel de control parental para monitorizar parámetros, botones de emergencia, juegos, cuentos...
