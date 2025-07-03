@@ -10,6 +10,7 @@
 Proyecto full-stack de comparación de precios de supermercados.  
 - **Backend**: Django + Scrapy (Python) para crawling y API REST  
 - **Frontend**: app web y móvil (disponible para escritorio y dispositivos móviles)
+
   Clonar repos:  
 gh repo clone HevCuesta/Compmerca
 gh repo clone HevCuesta/Compmerca-front
